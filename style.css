@@ -1,0 +1,79 @@
+/* Fonts */
+@font-face {
+    font-family: 'nexa_boldregular';
+    src: url('nexa_bold-webfont.woff2') format('woff2'),
+         url('nexa_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+
+/* General */
+body {
+	font-family: 'Roboto Mono', monospace;
+	background-color: #e6e6fa;
+	color: #393a3e;
+}
+a {
+	text-decoration: none;
+	outline: none;
+}
+ul {
+	list-style: none;
+}
+.headline h1 {
+	 font-family: 'nexa_boldregular';
+	 color: #fff;
+	 font-size: 100px;
+	 padding-top: 55px;
+}
+.headline p {
+	width: 60%;
+    margin: 0 auto;
+    padding-top: 5px;
+    line-height: 21px;
+}
+.headline h1, p {
+	text-align: center
+}
+.skills h2 {
+	font-family: 'Playfair Display', serif;
+	font-size: 35px;
+    text-align: center;
+    padding-top: 40px;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  margin: 10px;
+  float: left;
+  display: flex;
+}
+.box p {
+	flex: 1;
+	margin: auto;
+	font-size: 20px;
+}
+.bottomLine {
+  padding: 50px;
+
+}
+.clearfix {
+  width: 880px;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+.clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+
