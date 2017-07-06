@@ -1,7 +1,7 @@
 # About Me Page
 
 ![Image of About Me Page - Briseida Montiel]
-(https://brizmon.github.com/Screen Shot 2017-07-05 at 9.55.34 PM)
+(https://brizmon.github.com/screenshot-b.png)
 
 ### Technologies Used 
 
@@ -11,7 +11,7 @@
 
 ### Sample Code 
 
-` ` `
+```
     <div class"container">
         <div class="headline">
             <h1>About Me</h1>
@@ -29,7 +29,7 @@
         <div class="bottomLine"><p>I'm currently available for freelance or career opportunities.</p></div>
     </div>
 
-` ` `
+```
 
 ### Problems/Future Improvements
 
