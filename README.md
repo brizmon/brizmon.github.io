@@ -1,7 +1,6 @@
 # About Me Page
 
-![Image of About Me Page - Briseida Montiel]
-(https://brizmon.github.com/screenshot-b.png)
+![Image of About Me Page - Briseida Montiel](screenshot-b.png)
 
 ### Technologies Used 
 
